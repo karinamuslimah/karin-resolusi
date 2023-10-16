@@ -3,3 +3,4 @@ Karin resolusi di tahun ini :
 - mampu menambahkan skills git
 - mampu menambahkan skills sql
 - menguasai english (verbal dan written)
+- mampu scripting menggunakan selenium
