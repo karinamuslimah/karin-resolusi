@@ -2,5 +2,7 @@ Mampu memahami
 - DDL
 select
 insert
+update
+delete
 - DML
 - DCL
